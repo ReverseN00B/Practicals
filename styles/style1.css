@@ -8,3 +8,9 @@ body{
 button{
     background-color: burlywood;
 }
+.image{
+        height:400px;
+        width: 400px;
+        border:2px solid;
+        box-shadow: 2px 1px 8px rgb(196, 171, 241);
+}
